@@ -1,0 +1,4 @@
+Flask<1
+numpy
+azure
+azure-storage>=0.36.0
