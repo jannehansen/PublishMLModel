@@ -5,7 +5,7 @@
 This app shows how to load pre-trained model from azure blob storage, 
 Initialize the flask app once with the model, 
 and start serving callers with REST API. The related blog article can be
-found [here](https://jannehansen.com/).
+found [here](https://jannehansen.com/publish-ml-model/).
 
 ### Functionality in short: 
 
