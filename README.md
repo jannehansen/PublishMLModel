@@ -13,9 +13,8 @@ then sets up a flask server to respond to incoming http(s) REST api calls.
 
 ## Read more!
 
-The related blog article can be found:
+The related blog article can be found on:
+https://jannehansen.com/publish-ml-model/ (English)
 
-- https://jannehansen.com/publish-ml-models (English)
-- https://jannehansen.com/fi/ml-mallien-julkaisu (Finnish)
 
 
