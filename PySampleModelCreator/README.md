@@ -3,7 +3,7 @@
 **CREATE A SIMPLE MODEL AND STORE IT TO AZURE BLOB STORAGE**
 *an example python app*
 
-The related blog article can be found [here](https://jannehansen.com/).
+The related blog article can be found [here](https://jannehansen.com/publish-ml-model/).
 
 *do once: pip3 install -r requirements.txt*
 
