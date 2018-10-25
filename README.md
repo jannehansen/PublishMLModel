@@ -1,4 +1,5 @@
-# PublishMLModel
+#
+PublishMLModel
 
 This tiny python example shows a simple workflow on how to publish your machine learning models
 for other applications to use with REST API. To run the samples you'll need an Azure subscription.
@@ -14,7 +15,5 @@ then sets up a flask server to respond to incoming http(s) REST api calls.
 ## Read more!
 
 The related blog article can be found on:
-https://jannehansen.com/publish-ml-model/ (English)
-
-
-
+- https://jannehansen.com/publish-ml-model/ (English)
+- https://jannehansen.com/fi/mallien-julkaiseminen/ (Finnish)
